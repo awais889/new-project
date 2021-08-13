@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff075878.chunk.css",
+    "main.js": "/static/js/main.cd7a8ac0.chunk.js",
+    "main.js.map": "/static/js/main.cd7a8ac0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e707f9a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e707f9a0.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.6a3625b6.chunk.js": "/static/js/2.6a3625b6.chunk.js",
+    "static/js/2.6a3625b6.chunk.js.map": "/static/js/2.6a3625b6.chunk.js.map",
+    "static/js/3.8ca09dcd.chunk.js": "/static/js/3.8ca09dcd.chunk.js",
+    "static/js/3.8ca09dcd.chunk.js.map": "/static/js/3.8ca09dcd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.ff075878.chunk.css.map": "/static/css/main.ff075878.chunk.css.map",
+    "static/js/2.6a3625b6.chunk.js.LICENSE.txt": "/static/js/2.6a3625b6.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/chevrondown.59c52267.svg",
+    "static/media/bitcoin.98f9e08f.mp4": "/static/media/bitcoin.98f9e08f.mp4",
+    "static/media/bookmark.3332d6c0.svg": "/static/media/bookmark.3332d6c0.svg",
+    "static/media/cryptonews.1f8402f7.jpg": "/static/media/cryptonews.1f8402f7.jpg",
+    "static/media/cryptosports.349077bc.png": "/static/media/cryptosports.349077bc.png",
+    "static/media/cryptostudy.001812b4.png": "/static/media/cryptostudy.001812b4.png",
+    "static/media/nftnews.18231b51.jpg": "/static/media/nftnews.18231b51.jpg",
+    "static/media/playbtn.002859de.svg": "/static/media/playbtn.002859de.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e707f9a0.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.6a3625b6.chunk.js",
+    "static/css/main.ff075878.chunk.css",
+    "static/js/main.cd7a8ac0.chunk.js"
+  ]
+}
